@@ -1,1 +1,2 @@
-Code academy Lasbs was unprepared today
+Code academy Lasbs was prepared today.
+Walter is talking about Git
